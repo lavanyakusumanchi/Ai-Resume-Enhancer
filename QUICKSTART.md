@@ -16,7 +16,6 @@ cd C:\Users\lavan\OneDrive\Desktop\ai-resume-enhancer-jules\frontend
 npm start
 ```
 
-✅ Open browser: **http://localhost:5173**
 
 ---
 
